@@ -1,0 +1,42 @@
+h1
+{
+    font-size: 50px;
+}
+#email
+{
+    font-weight: bold;
+    color: purple;
+    text-decoration: underline;
+}
+.box1
+{
+    padding-left: 8px;
+}
+#titles
+{
+    line-height: 50px;
+    color: blue;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#heads
+{
+    line-height: 50px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#phone
+{
+    font-weight: bolder;
+}
+#jobtitle
+{
+    
+    font-size: xx-large;
+}
+span
+{
+    word-spacing: 5px;
+    line-height: 15px;
+    font-size: 10px;
+}

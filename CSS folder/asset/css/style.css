@@ -1,0 +1,21 @@
+*
+{
+    margin: 0px;
+    margin-left: 20px;
+    box-sizing: border-box;
+}
+.box1
+{
+    
+    
+    margin-right: 30px;
+    border: 6px;
+   padding-left: 10px;
+   width: 280px;
+   height: 800px;   
+   border-left-style: dotted;
+   display: inline-block;
+   padding: 20px;    
+   vertical-align: top; 
+   
+}
